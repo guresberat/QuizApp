@@ -74,9 +74,8 @@
                 android:layout_marginTop="16sp"
                 android:background="@color/purple_200"
                 android:text="@string/startText"
-                android:textSize="18sp"
                 android:textColor="@color/white"
-                >
+                android:textSize="18sp">
 
             </Button>
 
